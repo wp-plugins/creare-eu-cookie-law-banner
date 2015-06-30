@@ -1,5 +1,5 @@
 === Plugin Name ===
-Contributors: bavington,crearegroup,robertkent
+Contributors: bavington,crearegroup,robertkent,danlong
 Donate link: https://www.creare.co.uk/
 Tags: cookie law, EU Cookie Law, cookie banner, implied consent, cookie law banner, creare
 Requires at least: 3.0.1

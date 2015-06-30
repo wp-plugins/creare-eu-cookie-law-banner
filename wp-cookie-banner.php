@@ -180,9 +180,3 @@ function add_css_to_head() { ?>
   <?php echo get_option('wp_cookie_banner_default_css'); ?>
 </style>
  <?php } 
-
-
-
-
-
-
